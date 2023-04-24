@@ -1,0 +1,8 @@
+.create-form {
+    max-width: 600px;
+    padding-bottom: 20px;
+}
+
+.active {
+    background-color: lightblue;
+}
